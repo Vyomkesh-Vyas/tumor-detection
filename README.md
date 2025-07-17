@@ -40,10 +40,12 @@ This notebook performs the following tasks:
 
 ## 📂 Project Structure
 
+```bash
 Tumor_Detection_Project/  
-├── Tumor Detection Project.ipynb  
-├── README.md  
-└── data/  
+├── Tumor Detection Project.ipynb   # Main analysis notebook
+├── README.md                       # Project documentation
+└── data/                           # Input dataset
+```
 
 ---
 
@@ -63,13 +65,6 @@ Tumor_Detection_Project/
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use, share, and modify.
-
----
-
-## 🤝 Credits
-
-Developed by Vyomkesh Vyas
-Inspired by real-world diagnostic data and predictive modeling practices.
 
 ---
 
