@@ -40,10 +40,10 @@ This notebook performs the following tasks:
 
 ## 📂 Project Structure
 
-Tumor_Detection_Project/
-├── Tumor Detection Project.ipynb
-├── README.md
-└── data/
+Tumor_Detection_Project/  
+├── Tumor Detection Project.ipynb  
+├── README.md  
+└── data/  
 
 ---
 
